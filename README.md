@@ -6,4 +6,4 @@ By clicking the "CLICK ME!" button in the middle, users can generate a random co
 ## Stack used
 - HTML
 - CSS
-- Js
+- Javascript
